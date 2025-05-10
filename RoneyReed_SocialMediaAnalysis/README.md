@@ -35,3 +35,6 @@ This project explores how online platforms shape public discourse around wrongfu
 - [Sentiment Analysis Notebook](./notebooks/02_sentiment_analysis.ipynb)
 - [Topic Modeling Notebook](./notebooks/03_topic_modeling.ipynb)
 - [Network Analysis Notebook](.notebooks/04_network_analysis.ipynb)
+
+
+Project by Shanell Dodson - Arizona State University Graduate Student
