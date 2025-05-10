@@ -13,7 +13,7 @@ This project explores how online platforms shape public discourse around wrongfu
 **Data Source**: Reddit API (PRAW)
 **Date Range**: Nov 2019 - Feb 2025
 **Tools Used**:
-- Python, Pandas, Matplotlib, Seaborn
+- Python (pandas, nltk, matplotlib, seaborn)
 - VADER Sentiment Analysis
 - LDA Topic Modeling
 - NetworkX Network Analysis
