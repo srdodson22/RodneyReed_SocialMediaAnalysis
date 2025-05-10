@@ -29,7 +29,7 @@ This project explores how online platforms shape public discourse around wrongfu
 - Infographic and brief
 
 ## Deliverables
-- [Project Brief](./reports/RodneyReed_Brief.pdf)
+- [Project Brief](./report/RodneyReed_Brief.pdf)
 - [Infographic](./infographic/Reed_infographic.pdf)
 - [Data Collection & EDA Notebook](./notebooks/01_data_collection.ipynb)
 - [Sentiment Analysis Notebook](./notebooks/02_sentiment_analysis.ipynb)
