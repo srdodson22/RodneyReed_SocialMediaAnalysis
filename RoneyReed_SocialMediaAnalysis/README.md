@@ -1,7 +1,7 @@
 # Justice in the Threads: Analyzing Reddit Discourse Around Rodney Reed's Wrongful Conviction
 
 ## Overview
-This project explores how online platforms shape public discourse around wrongful conviction cases - focusing on the case of **Rodney Reed**, a Black man on death row in Texas. Using Reddit discussions, this study analyzes posts and comment sentiment, topic themese, and network influence across subreddits from **November 2019 to February 2025**.
+This project explores how online platforms shape public discourse around wrongful conviction cases - focusing on the case of **Rodney Reed**, a Black man on death row in Texas. Using Reddit discussions from **November 2019 to February 2025**, I analyzed posts and comment sentiment, topic themes, and network influence across subreddits.
 
 ## Research Questions
 - How does sentiment toward Rodney Reed's case manifest and evolve in Reddit discussions?
