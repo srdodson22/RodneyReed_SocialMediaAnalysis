@@ -21,7 +21,7 @@ This project explores how online platforms shape public discourse around wrongfu
 - NetworkX Network Analysis
 
 **Steps**:
-- Data scaping and cleaning
+- Data scraping and cleaning
 - Exploratory analysis
 - Sentiment analysis
 - Topic modeling
